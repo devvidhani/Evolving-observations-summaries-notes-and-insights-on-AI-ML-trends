@@ -52,5 +52,8 @@ Read the paper for additional details, measurements and evaluation approaches/co
 * Potential exposure to LLM/LLM+ seems to have little correlation with current employment levels (i.e., worker concentration in occupations correlation with occupational exposure to LLM or LLM+).
   * The distribution of exposure is similar across occupations and workers.
   * However, it is expected that it could be more highly correlated with investment in developing LLM+ software for particular domains.
+* Demographic groups are unevenly distributed across occupations with Asian people highly impacted and Latino people less impacted with LLM/LLM+ exposure
+    * Across all measures, the proportion of Asian people positively correlated and that of Latino people negatively correlated
+
 
 ![Table 4 from the paper for occupations with highest exposure to LLM/LLM_plus ](./images/openai_wharton_llm_llmplus_labor_market_impact_paper_table5.jpeg)
