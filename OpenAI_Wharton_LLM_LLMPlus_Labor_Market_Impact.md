@@ -21,7 +21,7 @@ Read the paper for additional details, measurements and evaluation approaches/co
     | Jobzone5  | Pharmacists, Lawyers, Astronomers | $81K           |
 
 * Use BLS (labor statistics) and ONET occupations/daily-work-activities/tasks classification as a basis of analysis of the above bullet
-* Assume a somewhat arbitrary threshold is HALF: I.e., half time is now required with direct LLM products to complete the task for all direct LLM exposure tasks as against with LLM
+* Assume a somewhat arbitrary threshold of HALF: I.e., half time is now required with direct LLM products exposure to complete the task as against without LLM
 * Assume that 50% of tasks that are exposed with additional tools based on LLM+ will save half the time (less benefits due to additional time investment in deploying the technology via complementary tools and applications)
 * Assume core tasks receive twice the weight as compared to supplemental tasks in an occupation when calculating avg exposure scores to LLM/LLM+
 * Analysis published based on BLS/ONET occupations/tasks analysis by GPT-4 Rubric 1 (defined in the paper). Other methods also used, though most of the times, correlates pretty well with human annotations analysis as well).
@@ -38,7 +38,7 @@ Read the paper for additional details, measurements and evaluation approaches/co
 * 15% of tasks are directly exposed to LLM.
 * 30% of tasks are exposed to both LLM and LLM+.
 * Higher wages are associated with increased exposure to LLM/LLM+, though numerous lower wage occupations also demonstrate high exposure based on study rubrics.
-* Table 5 has detailed results of skills strongly positively impacted due to LLM/LLM+ exposure, which may pose a risk of reduction in employment.
+* Table 4 (copied from paper below) has detailed results of skills strongly positively impacted due to LLM/LLM+ exposure, which may pose a risk of reduction in employment.
   * Programming and writing skills.
 * On the other hand, science and critical thinking skills are negatively correlated with exposure to LLM/LLM+, indicating that they are less likely to be impacted by LLM/LLM+.
 * Exposure increases from Job Zone 1 to Job Zone 4, and either remains similar or decreases at Job Zone 5.
